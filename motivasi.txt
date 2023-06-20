@@ -11,6 +11,8 @@ Software yang digunakan :
 2. Visual Studio Code
 3. XAMPP
 
+video ada di youtube : https://youtu.be/Ho_QWTujncg 
+
 project ini mengambil referensi dari :
 1. https://www.youtube.com/watch?v=9YJj8rXGY_4
 dengan source github-nya di : 
