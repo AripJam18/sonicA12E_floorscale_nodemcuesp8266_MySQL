@@ -11,7 +11,17 @@ Software yang digunakan :
 2. Visual Studio Code
 3. XAMPP
 
+Wiring :
+ESP8266 ===> RS232 TTL
+TX  ====> TX
+RX  ====> RX
+GND ====> GND
+VCC ====> VCC
+
 video ada di youtube : https://youtu.be/Ho_QWTujncg 
+
+
+
 
 project ini mengambil referensi dari :
 1. https://www.youtube.com/watch?v=9YJj8rXGY_4
